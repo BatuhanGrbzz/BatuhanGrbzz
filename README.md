@@ -1,16 +1,19 @@
-### Hi there 👋
+## Merhabalar, Github profilime hoşgeldiniz.
 
-<!--
-**BatuhanGrbzz/BatuhanGrbzz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Çukurova üniversitesi bilgisayar programcılığı öğrencisiyim. Kendimi geliştirmek adına yaptığım projelerimi buraya atıyor olacağım. 
 
-Here are some ideas to get you started:
+Kendimi şuan için PYTHON yazılım dilinde geliştiriyorum. 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Daha öncesinde Front-end Developer olma yolunda ilerliyordum ama bundan vazgeçip Yapay zeka alanına yöneldim. 
+
+Yapay zeka alanının yanında, Oyun ve web programlamaya da ilgim var ama şuanlık yapay zekada uzmanlaşmak istiyorum. 
+
+
+Sosyal medya hesaplarım;
+
+@ İnstagram: ba2.js
+@Linkedin: batuhan-gürbüz-8a0461241
+@Email: batuhang002@gmail.com
+
+Sayfama tekrardan hoşgeldiniz :)
+
